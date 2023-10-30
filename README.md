@@ -1,2 +1,2 @@
 # KrydsOgBolle
-Kryds og bolle i c++
+Kryds og bolle i c#
